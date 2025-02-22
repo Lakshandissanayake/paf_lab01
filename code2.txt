@@ -1,0 +1,13 @@
+$ git branch branch_1
+
+$ git checkout branch_1
+Switched to branch 'branch_1'
+
+$ git checkout -b test
+
+
+$ git checkout master  -  go through branchers 
+
+
+
+
